@@ -1,0 +1,3 @@
+# Never leave this file empty
+domain.example.abc
+# WoodSwimmerFurnish/zapretdiscord 3387022e5484
